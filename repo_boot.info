@@ -1,0 +1,9 @@
+name = Repo Boot
+description = based on twitter bootstrap for consistency and responsiveness
+version = VERSION
+core = 7.x
+base theme = tweme
+
+stylesheets[all][] = css/repo_boot.css
+
+
